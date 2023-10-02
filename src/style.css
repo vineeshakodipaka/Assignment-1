@@ -1,0 +1,19 @@
+.carmodelcls .reacticon{
+  color: #03a9f4;
+}
+.carmodelcls .fa-heart{
+  background: #03a9f433;
+  width: 40px;
+  height: 40px;
+}
+.carmodelcls input:focus{
+box-shadow: none;
+}
+.carmodelcls .container{
+  background: #cfd8dc3d !important;
+
+}
+.carmodelcls .card{
+  background: #b2ebf21c;
+
+}
